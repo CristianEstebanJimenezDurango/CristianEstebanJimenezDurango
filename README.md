@@ -2,6 +2,13 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
+
+<h2 align="center">📅 Isometric Calendar</h2>
+<p align="center">
+  <img src="./isometric-calendar.svg" alt="Isometric calendar" />
+</p>
+
+
 <!--
 **CristianEstebanJimenezDurango/CristianEstebanJimenezDurango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
