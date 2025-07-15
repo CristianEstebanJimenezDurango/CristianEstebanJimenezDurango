@@ -1,6 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=500&color=051015&background=4529FF00&center=true&vCenter=true&width=600&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango)](https://git.io/typing-svg)
 
-<h2 align="center">👤 About Me</h2>
 <p align="center">
     <img src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
