@@ -38,6 +38,40 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: America/Bogota
 
+              # Recent activity
+      - name: Generate recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: recent-activity.svg
+          base: activity
+          config_timezone: America/Bogota
+
+      # About me with enhancements
+      - name: Generate about me
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: about-me.svg
+          base: ""
+          plugin_about: yes
+          plugin_about_title: yes
+          plugin_about_resume: "Hi! I'm a passionate optical science developer. Always in the pursuit of learning!"
+          config_timezone: America/Bogota
+
+      # Programming languages
+      - name: Generate coding languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, scss
+          plugin_languages_limit: 8
+          config_timezone: America/Bogota
+
       - name: Commit metrics
         
         run: |
