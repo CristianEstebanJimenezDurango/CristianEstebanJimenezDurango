@@ -56,8 +56,10 @@ jobs:
           base: ""
           plugin_about: yes
           plugin_about_title: yes
-          plugin_about_resume: "Hi! I'm a passionate optical science developer. Always in the pursuit of learning!"
+          plugin_about_resume: "Hi, I'm Cristian. I love building tools that automate and visualize data. Curious by nature."
           config_timezone: America/Bogota
+
+
 
       # Programming languages
       - name: Generate coding languages
@@ -67,8 +69,6 @@ jobs:
           filename: languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, scss
           plugin_languages_limit: 8
           config_timezone: America/Bogota
 
