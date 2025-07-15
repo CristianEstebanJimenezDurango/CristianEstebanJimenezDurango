@@ -1,5 +1,5 @@
 
-https://readme-typing-svg.demolab.com/demo/?font=Roboto+Mono&size=25&duration=3000&pause=500&color=F7400A&background=4529FF00&center=true&vCenter=true&width=600&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=500&color=F7400A&background=4529FF00&center=true&vCenter=true&width=600&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango)](https://git.io/typing-svg)
 
 <h2 align="center">📰 Recent GitHub Activity</h2>
 <p align="center">
