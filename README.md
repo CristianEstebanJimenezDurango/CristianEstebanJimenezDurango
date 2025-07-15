@@ -1,6 +1,6 @@
 
 <p align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=500&color=051015&background=4529FF00&center=true&vCenter=true&width=600&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&duration=3000&pause=500&color=051015&background=4529FF00&center=true&vCenter=true&width=600&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango)](https://git.io/typing-svg)
 </p>
 
 
