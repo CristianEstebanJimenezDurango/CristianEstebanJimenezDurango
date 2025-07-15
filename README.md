@@ -1,5 +1,5 @@
 <!-- Visitor Badge -->
-<p align="rigth">
+<p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CristianEstebanJimenezDurango.CristianEstebanJimenezDurango" alt="visitor badge"/>
 </p>
 
