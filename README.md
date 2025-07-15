@@ -31,7 +31,7 @@
 <h2 align="center">💻 My Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,matlab,blender,vscode,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,matlab,blender,vscode,git,github,latex,bootstrap" alt="My Skills" />
   </a>
 </p>
 <p align="center">
