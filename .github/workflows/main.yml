@@ -23,9 +23,12 @@ jobs:
           base: header, activity, community
 
       - name: Commit metrics
+        
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git pull origin main --rebase
           git add github-metrics.svg
-          git commit -m "chore: update metrics" || echo "No changes to commit"
+          git commit -m "chore: update metrics" || echo "No changes"
           git push
+
