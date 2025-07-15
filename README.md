@@ -1,5 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=2000&color=F7400A&background=4529FF00&center=true&vCenter=true&width=700&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=2000&color=F7400A&background=4529FF00&center=true&vCenter=true&width=700&lines=Hi+there!;I+am+Cristian+Esteban+Jimenez+Durango" alt="Typing SVG" />
+  </a>
+</p>
 
 <h2 align="center">📰 Recent GitHub Activity</h2>
 <p align="center">
