@@ -14,7 +14,7 @@
 
 <h2 align="center">💻 Coding Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,matlab,blender,python)](https://skillicons.dev)
   
 <p align="center">
   <img src="./languages.svg" alt="Coding Languages" />
