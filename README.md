@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 <!--
 **CristianEstebanJimenezDurango/CristianEstebanJimenezDurango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
