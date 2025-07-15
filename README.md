@@ -1,10 +1,12 @@
-## Hi there 👋
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <h2 align="center">👤 About Me</h2>
 <p align="center">
   <img src="./about-me.svg" alt="About Me" />
+</p>
+
+<h2 align="center">👤 About Me</h2>
+<p align="center">
+    <img src="/github-metrics.svg" alt="Metrics" width="400">
 </p>
 
 
