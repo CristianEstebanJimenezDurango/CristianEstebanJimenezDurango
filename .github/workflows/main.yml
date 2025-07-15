@@ -20,7 +20,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, community
+          base: header, activity, community, repositories
+          config_timezone: America/Bogota
+
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_achievements: yes
+          plugin_lines: yes
 
       - name: Commit metrics
         
